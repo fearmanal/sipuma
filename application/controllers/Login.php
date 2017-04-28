@@ -12,6 +12,7 @@ class Login extends CI_Controller{
   	$this->load->helper('security');
 	}
 
+  //method untuk mengecek apakah sudah login atau belum
   public function index(){
     $sudah_login = $this->session->userdata('sudah_login');
     $data['id_role'] = $this->session->userdata('id_role');

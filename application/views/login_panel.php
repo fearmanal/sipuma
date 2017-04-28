@@ -23,9 +23,6 @@
 		<link rel="stylesheet" href="<?php echo base_url();?>assests/admin/assets/plugins/perfect-scrollbar/src/perfect-scrollbar.css">
 		<link rel="stylesheet" href="<?php echo base_url();?>assests/admin/assets/css/theme_light.css" type="text/css" id="skin_color">
 		<link rel="stylesheet" href="<?php echo base_url();?>assests/admin/assets/css/print.css" type="text/css" media="print"/>
-		<!--[if IE 7]>
-		<link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome-ie7.min.css">
-		<![endif]-->
 		<!-- end: MAIN CSS -->
 		<!-- start: CSS REQUIRED FOR THIS PAGE ONLY -->
 		<!-- end: CSS REQUIRED FOR THIS PAGE ONLY -->

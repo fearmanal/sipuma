@@ -8,7 +8,7 @@ class Login_model extends CI_Model{
   {
     parent::__construct();
   }
-
+  //Cek User
   public function cek_user($username,$pass){
     $this->db->select('*');
     $this->db->from('user');
